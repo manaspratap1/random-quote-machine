@@ -36,14 +36,16 @@ html, body {
 
 #new-quote {
   margin-top: 20px;
-  padding: 10px 20px;
+  padding: 8px 14px;
   background-color: #007bff;
   color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   font-size: 1rem;
+  align-self: center; 
 }
+
 
 #new-quote:hover {
   background-color: #0056b3;
